@@ -1,0 +1,5 @@
+{
+  "name": "example packedge",
+  "cmds": "[/"test/",/"do-smth/"]",
+  "hash": "hash of the py code that powers this"
+}
