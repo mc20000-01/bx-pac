@@ -3,7 +3,7 @@
     "name": "bxpkg",
     "version": "1.0.0",
     "description": "Description of the boxedLANG package.",
-    "entry": "packadge/",
+    "entry": "package/",
     "commands": [
       "cmd1",
       "cmd2"
