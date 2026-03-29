@@ -1,5 +1,14 @@
 {
-  "name": "example packedge",
-  "cmds": "[/"test/",/"do-smth/"]",
-  "hash": "hash of the py code that powers this"
+  "package": {
+    "name": "bxpkg",
+    "version": "1.0.0",
+    "description": "Description of the boxedLANG package.",
+    "entry": "index.json",
+    "commands": [
+      "cmd1",
+      "cmd2"
+    ],
+    "author": "@mc20000-01",
+    "license": "LSL-1.0"
+  }
 }
