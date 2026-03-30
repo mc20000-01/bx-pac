@@ -1,1 +1,1 @@
-idk what py code will go here
+print("dumb")
